@@ -32,11 +32,13 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=krishnagithub03&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=krishnagithub03&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnagithub03&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnagithub03&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=krishnagithub03&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+## Hacktoberfest 2k22
+[![@krishna_github's Holopin board](https://holopin.me/krishna_github)](https://holopin.io/@krishna_github)<br/>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
