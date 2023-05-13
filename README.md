@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Agrawal</h1>
 <h3 align="center">I’m interested in Web Development,Machine Learning,Artificial Intelligence.</h3>
 
-- 🔭 I’m currently working on **_**
+- 🔭 I’m currently working on **styleDesi**
 
 - 🌱 I’m currently learning **React**
 
