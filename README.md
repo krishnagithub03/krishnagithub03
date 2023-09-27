@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **styleDesi**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJs**
 
 - 🤝 I’m looking for help with **Web Development**
 
