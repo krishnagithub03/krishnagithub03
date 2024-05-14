@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Krishna Agrawal</h1>
-<h3 align="center">I’m interested in Web Development,Machine Learning,Artificial Intelligence.</h3>
+<h3 align="center">I’m interested in Full Stack Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnagithub03&label=Profile%20views&color=0e75b6&style=flat" alt="krishnagithub03" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnagithub03" alt="krishnagithub03" /></a> </p>
 
-- 🔭 I’m currently working on **E-Mandi**
+- 🔭 I’m currently working on **secureX**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **DSA,C++,Web Designing**
+- 💬 Ask me about **DSA,C++,Web Development**
 
 - 📫 How to reach me **agrawalkrishna030@gmail.com**
 
